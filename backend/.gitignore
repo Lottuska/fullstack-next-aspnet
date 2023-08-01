@@ -1,0 +1,61 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Logs
+Logs/
+
+# NuGet
+packages
+*.nupkg
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Other
+*.userprefs
+[Bb]in
+[Oo]bj
+sql
+TestResults
+[Tt]est[Rr]esult*
+*.Cache
+ClientBin
+[Ss]tyle[Cc]op.*
+~$*
+*.dbmdl
