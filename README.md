@@ -13,7 +13,7 @@ This is a full-stack web application built using Next.js 13 for the frontend and
 
 ## Technologies Used
 
-- Frontend: Next.js, React
+- Frontend: Next.js, React, Tailwind CSS
 - Backend: ASP.NET Core Web API (.NET 6.0), Entity Framework Core
 - Authentication: JWT
 - Database: SQLite
